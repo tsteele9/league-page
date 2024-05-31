@@ -1,8 +1,8 @@
 /*   STEP 1   */
-export const leagueID = "994333346387824640"; // your league ID
+export const leagueID = "784836380953018368"; // your league ID
 export const leagueName = "Lets Get Weird"; // your league name
 export const dues = 25; // (optional) used in template constitution page
-export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
